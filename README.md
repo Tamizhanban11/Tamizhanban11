@@ -15,13 +15,11 @@
 
 ---
 
-## 🌟 Motivation
+## 🌟 
 
 > **"Data is not just numbers; it’s a story waiting to be told."**
 
 > **"Your skills are the seeds; consistency is the water; success is the tree."**
-
-> **"In the world of Data, those who seek insights are the true pioneers."**
 
 > **"தரவு என்பது வெறும் எண்கள் அல்ல; அது கதைகளை சொல்லும் கலை."**
 
@@ -82,7 +80,7 @@
 
 ---
 
-## ✨ Final Thought
+## ✨
 
 > **"Success comes from consistent effort and unwavering dedication. The path to greatness is carved by persistence and hard work."**
 
